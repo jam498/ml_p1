@@ -1,7 +1,7 @@
 import pandas as pd
 
 ###############################
-# fruit dataset
+# fruit dataset Hi this is my profile
 ###############################
 fruits = pd.read_csv('fruit_data_with_colors.txt', sep='\t')
 fruits.head()
